@@ -2,7 +2,7 @@
 // Copyright: Gaetan Bahl - 2025
 // SPDX-License-Identifier: GPL-3.0-only
 
-#include "picogamepad/PicoGamepad.h"
+#include "PicoGamepad.h"
 
 PicoGamepad gamepad;
 
